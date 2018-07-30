@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.os.CountDownTimer
 import android.widget.Toast
 import kotlinx.android.synthetic.main.activity_main.*
+
 var isRunning = false
 var timeMil : Long = 0
 var countDownTimer : CountDownTimer ?= null
