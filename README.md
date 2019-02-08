@@ -1,6 +1,6 @@
 <div align="center">
   
-  # CountDown Timer
+  # CountDown Progress Bar
   
   <img src="art/count.gif" />
   
